@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+torch
+transformers
+lime
+shap
+pydantic
+pydantic-settings
+python-dotenv
+tweepy
+matplotlib
+seaborn
+python-multipart
+# For better performance
+uvloop; sys_platform != 'win32'
+httptools; sys_platform != 'win32'
